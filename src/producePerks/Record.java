@@ -1,20 +1,14 @@
 /** 
  * Each record holds an integer key and a Customer.
  * 
- * The only other class that should directly interact with the record class is
+ * The only other class that interacts with the record class is
  * MyHashTable.java
- * 
- * This class is complete and should not need updated.
  */
  
 package producePerks;
 
 /**
- * @author Katie Timmerman
- * @author < your name >
- * 
- * Course: Data Structures and Algorithms
- * Semester: 
+ * @author Jake Heyser
  */
 
 

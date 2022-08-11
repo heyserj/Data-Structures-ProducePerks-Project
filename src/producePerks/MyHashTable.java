@@ -1,13 +1,10 @@
 /**
- * This is where you will implement your hash table.
+ * Class that contains the implementation of the hash table used in this project
  */
 package producePerks;
 
 /**
- * @author Katie Timmerman
- * @author < your name >
- *
- * Course: Data Structures and Algorithms Semester:
+ * @author Jake Heyser
  */
 public class MyHashTable {
 
@@ -112,5 +109,4 @@ public class MyHashTable {
         }
         return table;
     }
-
 }

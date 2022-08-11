@@ -8,11 +8,7 @@ package producePerks;
 import java.util.ArrayList;
 
 /**
- * @author Katie Timmerman
- * @author < your name >
- * 
- * Course: Data Structures and Algorithms
- * Semester: 
+ * @author Jake Heyser
  */
 
 public class Customer {

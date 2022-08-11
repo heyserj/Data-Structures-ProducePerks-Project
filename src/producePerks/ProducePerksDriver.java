@@ -1,8 +1,8 @@
 /**
  * This is the driver class.
- * Note that it should NEVER interact with the Record class.
+ * Note that it does NOT interact with the Record class.
  *
- * MyHashTable.java is your creation of a Hash Table.
+ * MyHashTable.java is the creation of a Hash Table.
  * Record.java is a record object that is stored in the hash table.
  * Transaction.java is a storage object that is formed based on one line of the data file.
  * Customer.java is a storage object that represents one person who uses produce perk.
@@ -21,10 +21,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * @author Katie Timmerman
- * @author < your name >
- *
- * Course: Data Structures and Algorithms Semester:
+ * @author Jake Heyser
  */
 public class ProducePerksDriver {
 

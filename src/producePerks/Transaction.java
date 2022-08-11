@@ -1,9 +1,8 @@
 /**
  * The transaction will be parsed from a line following this formula
- * Store,Date,Time,Term,Trans,SNAP_ID,Total Spent with SNAP,Total Spent on Fruit & Vegatables,
+ * Store,Date,Time,Term,Trans,SNAP_ID,Total Spent with SNAP,Total Spent on Fruit & Vegetables,
  *               Total Spent on Other Items,Value of Coupons Issued,Count of Coupons Issued,CASH,
  *               CHECKS,EBT,EBT-OTHER,WIC,CREDIT CARDS,DEBIT CARDS,OTHER TENDERS
- * 
  */
 package producePerks;
 
@@ -11,7 +10,7 @@ import java.time.LocalDateTime;
 
 /**
  *
- * @author timmermank1
+ * @author Jake Heyser
  */
 public class Transaction {
 
